@@ -24,6 +24,7 @@ Use DD for forensic image handling, copying, and verification.
  2026-09-27T23:30:10-04:00
  
 #### Hash Generated
+
 sha256sum for 1ST_EAGLE.img
 e641bd6d16d837cead2bfeb8989aa6baf2cc9398e3bac8f20f37a38645f91f69 
 
@@ -33,7 +34,7 @@ md5sum for 1ST_EAGLE.img
 sha256sum for Evidence.E01
 6216149fddf6eb7074349afaef226f02c3b246ee6c3c3ae91c5ab7adeb8c29e0 
 
-md5sum /home/rexpeter/Evidence.E01
+md5sum for Evidence.E01
 9e2b4bb9adf2b77b0810f8f6bb115a3f 
 
  
