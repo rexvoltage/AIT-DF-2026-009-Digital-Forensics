@@ -15,7 +15,7 @@ No user account information identified during initial FTK examination.
 Multiple deleted folders and files detected, indicated by red X markers.
 Deleted content included:
 | Folder | Status | Recoverable |
-
+|---|---|---|
 | Corel Content | Present | Yes |
 | corel draw work | Present | Yes |
 | SSH | Present | Yes | 
