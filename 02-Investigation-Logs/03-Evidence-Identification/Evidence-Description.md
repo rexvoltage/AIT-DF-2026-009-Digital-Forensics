@@ -18,16 +18,18 @@
  
 | Partition | File System | Size |
 |------------|------------|------------|
-| | | |
+| D:/ | FAT32 | 29.2 |
  
 ---
  
 ## Operating System
- WINDOWS
-Pending Analysis
+ WINDOWS / LINUX
+
  
 ---
  
 ## User Accounts
  
-Pending Analysis
+No user account information was identified during the initial examination of the FAT32 partition.
+
+The FAT32 file system does not maintain operating system user account databases. Further analysis of directory structures and stored files is required to determine whether user-related artefacts exist within the evidence.
