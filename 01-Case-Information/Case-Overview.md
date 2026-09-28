@@ -14,16 +14,16 @@ Digital Forensics / Deleted Data Recovery
  
 ## Evidence Type
  
-Forensic Disk Image
+Forensic Disk Image (EnCase/EWF Format)
  
 ## Investigator
  
-Ifeanyi Kalu
+Kalu Ifeanyi Peter (Rex)
  
 ## Repository
  
 Investigation Working Documentation
  
 ## Status
- 
-In Progress
+
+Analysis Completed
