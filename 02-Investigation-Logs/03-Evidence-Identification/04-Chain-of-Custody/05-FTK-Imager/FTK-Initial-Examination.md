@@ -14,7 +14,7 @@ No user account information identified during initial FTK examination.
 ### Deleted Files
 Multiple deleted folders and files detected, indicated by red X markers.
 Deleted content included:
-| #Folder | Status | Recoverable |
+| Folder | Status | Recoverable |
 |.......|.........|.........|
 
 | Corel Content | Present | Yes |
